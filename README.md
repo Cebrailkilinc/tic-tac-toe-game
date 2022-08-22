@@ -1,8 +1,8 @@
 
 <h1>Tic-Tac-Toe-Game</h1>
 
-<h2>DEMO:</h2>
-<a>gabriel-tic-tac-toe-game.netlify.app</a>
+<h2>DEMO: gabriel-tic-tac-toe-game.netlify.app</h2>
+
 
 
 
